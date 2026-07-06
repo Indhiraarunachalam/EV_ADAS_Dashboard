@@ -1,6 +1,6 @@
 # 🚗 EV ADAS Dashboard
 
-A real-time **Electric Vehicle Advanced Driver Assistance System (ADAS) Dashboard** developed using **STM32 Blue Pill (STM32F103C8T6)**, **PicsimLab**, and **Python**. This project simulates an EV dashboard capable of monitoring vehicle parameters and displaying ADAS information through a live Python dashboard.
+A real-time **Electric Vehicle Advanced Driver Assistance System (ADAS) Dashboard** developed using **STM32 Blue Pill (STM32F103C8T6)**, **PicsimLab**, and **Python**. This project simulates an EV dashboard capable of monitoring vehicle parameters and displaying ADAS information through a live Python dashboard.This project is Developed as part of my Embedded Systems Internship.
 
 ---
 
@@ -79,6 +79,16 @@ EV_ADAS_Dashboard
 ![Alarm is None](Images/Python_Dashboard_Output_alarm%20is%20None.png)
 
 ---
+
+## 🎥 Project Demonstration
+
+This video demonstrates the complete working of the **EV ADAS Dashboard**, including firmware execution, Python dashboard visualization, and the key concepts I learned during my internship.
+
+▶️ **Watch the Project Demo Video:**
+
+[EV ADAS Dashboard - Project Demonstration](https://drive.google.com/file/d/1uMVXrZLXgIH7HicNy5hZnQ3dIGewHwfJ/view?usp=drive_link)
+
+----
 
 ## ▶️ How to Run
 
