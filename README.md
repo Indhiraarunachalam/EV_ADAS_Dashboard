@@ -68,10 +68,15 @@ EV_ADAS_Dashboard
 ├── LICENSE
 
 ```
-## project output screenshot
+## 📷 Project Output Screenshots
 
-Images/Python_Dashboard_Output_ADVISORY Alarm.png  
-Images/Python_Dashboard_Output_alarm is None.png
+### Advisory Alarm
+
+![Advisory Alarm](Images/Python_Dashboard_Output_ADVISORY%20Alarm.png)
+
+### Alarm is None
+
+![Alarm is None](Images/Python_Dashboard_Output_alarm%20is%20None.png)
 
 ---
 
