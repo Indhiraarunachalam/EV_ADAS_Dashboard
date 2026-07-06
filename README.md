@@ -75,9 +75,9 @@ EV_ADAS_Dashboard
 
 ### Python Dashboard
 
-Python_Dashboard_Output_alarm is None.png
 
-Python_Dashboard_Output_ADVISORY Alarm.png
+
+Images/Python_Dashboard_Output_ADVISORY Alarm.png
 
 ---
 
