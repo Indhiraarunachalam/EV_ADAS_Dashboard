@@ -47,6 +47,7 @@ The project demonstrates the integration of embedded systems, serial communicati
 
 ---
 
+
 ## 📂 Repository Structure
 
 ```text
@@ -99,6 +100,13 @@ This video demonstrates the complete working of the **EV ADAS Dashboard**, inclu
 5. Run the Python dashboard.
 6. Observe the live EV dashboard.
 
+## 📦 Python Requirements
+
+Install the required Python packages:
+
+```bash
+pip install matplotlib pyserial numpy
+```
 ---
 
 ## 👩‍💻 Author
