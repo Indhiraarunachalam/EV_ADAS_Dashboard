@@ -69,18 +69,6 @@ EV_ADAS_Dashboard
 
 ```
 
----
-
-## 📷 Project Screenshots
-
-### Python Dashboard
-
-
-
-Images/Python_Dashboard_Output_ADVISORY Alarm.png
-
----
-
 ## ▶️ How to Run
 
 1. Open the firmware project using STM32CubeIDE.
